@@ -1,0 +1,8 @@
+﻿  print_zadania.c
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\cstdio(33,1): error C2061: błąd składniowy: identyfikator „std”
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\cstdio(33,1): error C2059: błąd składniowy: „;”
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\cstdio(33,1): error C2449: znaleziono „{” w zakresie pliku (brak nagłówka funkcji?)
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\cstdio(91,1): error C2059: błąd składniowy: „}”
+D:\VS\zadania1\print_zadania.c(21,1): fatal error C1004: napotkano nieoczekiwany znacznik końca pliku
+  Źródło.c
+  Generowanie kodu...

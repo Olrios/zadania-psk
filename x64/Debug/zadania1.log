@@ -1,0 +1,8 @@
+﻿  check_read_number.c
+  print_zadania.c
+  Źródło.c
+I:\Aleksander Janicki IDN\zadania1\Źródło.c(23,19): warning C4101: "cc": lokalna zmienna, do której nie istnieje odwołanie
+I:\Aleksander Janicki IDN\zadania1\Źródło.c(23,11): warning C4101: "aa": lokalna zmienna, do której nie istnieje odwołanie
+I:\Aleksander Janicki IDN\zadania1\Źródło.c(23,15): warning C4101: "bb": lokalna zmienna, do której nie istnieje odwołanie
+  Generowanie kodu...
+  zadania1.vcxproj -> I:\Aleksander Janicki IDN\zadania1\x64\Debug\zadania1.exe
